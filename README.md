@@ -1,5 +1,5 @@
 # BloodBank.github.io
-Blood Bank System:
+<b>Blood Bank System</b>:
     Designed and implemented a web-based system using HTML, CSS, Bootstrap, PHP, MySQL, and AJAX <br>
     Managed blood donation activities including donor registration, blood inventory, and scheduling 
 Client:
