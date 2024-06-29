@@ -12,6 +12,7 @@
      can view total number of pending messages, all messages and blood donors available<br>
      can add, update or delete and info related to donors, and can accept messages from users or delete them<br>
 ![](client.PNG)
+<br><br>
 ![](admin.PNG)
 
 <b>You can View the pdf to see some photos of the project</b>
